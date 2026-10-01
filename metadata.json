@@ -1,0 +1,6 @@
+{
+  "name": "ResuMetrics - AI Resume & Career Gap Intelligence",
+  "description": "Analyze resumes against industry standards and target job descriptions, identify key technical and soft skill gaps, evaluate ATS compatibility, and receive actionable rewrites and improvement roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
